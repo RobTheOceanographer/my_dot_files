@@ -42,7 +42,7 @@ set noerrorbells         " don't beep
 
 " set colors
 if &t_Co >= 256 || has("gui_running")
-    colorscheme Mustang
+    colorscheme Tomorrow-Night-Bright
 endif
 
 if &t_Co > 2 || has("gui_running")
